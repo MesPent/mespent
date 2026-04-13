@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: MesPent尝试。
 subtitle: ''
 description: ''
 keywords:
@@ -103,5 +103,5 @@ theme: stellar
 deploy:
   type: git
   repo: git@github.com:MesPent/mespent.git
-  branch: gh-pages
+  branch: main
   
