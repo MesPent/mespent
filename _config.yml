@@ -100,8 +100,5 @@ theme: stellar
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: git
-  repo: git@github.com:MesPent/mespent.git
-  branch: main
+
   
